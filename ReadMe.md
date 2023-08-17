@@ -6,29 +6,31 @@ Containers have become an essential part of software development and deployment.
 
 Containers are lightweight, standalone, and executable software packages that encompass all the components needed to run a piece of software. This includes the code, runtime, system tools, libraries, and settings.
 
--   **Lightweight:** Containers share the host OS kernel, which makes them efficient and quick to start.
--   **Standalone:** Each container runs in isolation, ensuring there are no conflicts between applications.
+- **Lightweight:** Containers share the host OS kernel, which makes them efficient and quick to start.
+- **Standalone:** Each container runs in isolation, ensuring there are no conflicts between applications.
 
 ## Benefits of Containers
 
--   **Consistency:** Applications run the same way regardless of where the container is deployed.
--   **Isolation:** Each container operates independently, ensuring no interference between containers.
--   **Scalability:** Easily scale up or down based on the application's demand.
--   **Reproducibility:** Ensure the environment remains consistent across the development lifecycle.
+- **Consistency:** Applications run the same way regardless of where the container is deployed.
+- **Isolation:** Each container operates independently, ensuring no interference between containers.
+- **Scalability:** Easily scale up or down based on the application's demand.
+- **Reproducibility:** Ensure the environment remains consistent across the development lifecycle.
 
 ## VMs vs Containers
 
+![VM vs Containers](/Assets/containers-vs-virtual-machines.jpg)
+
 ### Virtual Machines (VMs):
 
--   Run a full-blown OS instance.
--   Require more resources.
--   Longer start-up time.
+- Run a full-blown OS instance.
+- Require more resources.
+- Longer start-up time.
 
 ### Containers:
 
--   Share the host OS kernel.
--   Require minimal resources.
--   Quick to start.
+- Share the host OS kernel.
+- Require minimal resources.
+- Quick to start.
 
 ## Small Demo: Running a Container
 

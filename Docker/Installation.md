@@ -38,6 +38,6 @@ This will show the version of Docker you've installed.
 3. **Update Issues:** If you're having issues updating Docker, consider downloading the latest version directly from the Docker website and reinstalling.
 4. **Logs & Diagnostics:** For detailed logs and diagnostics, go to the Docker menu, then select Troubleshoot. Here, you can view logs or run diagnostic tests.
 
-### [Previous Topic: Installation](/Docker/Installation.md)
+### [Previous Topic: Overview](/ReadMe.md)
 
 ### [Previous Topic: Basics](/Docker/Basics.md)
